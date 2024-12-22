@@ -3,7 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "MiniMinecraft": "github:spastai/miniminecraft#d91d397a10615dfc244dcb9938e7ad25f97145f8"
+        "MiniMinecraft": "github:spastai/miniminecraft#pr-1"
     },
     "files": [
         "main.blocks",
